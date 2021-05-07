@@ -109,26 +109,27 @@ The OpenGL redistributable components for Windows 95 are in the
 
 a)  Samples included
 
-    BOOK	Sample code from "OpenGL Programming Guide" first edition.
+   BOOK	Sample code from "OpenGL Programming Guide" first edition.
 
-    DEMOS	AUXDEMO  -  AUX Library demonstration.
+   DEMOS
+      AUXDEMO  -  AUX Library demonstration.
 
-		BACKTRCE -  BackTrace sample ported from Silicon Graphics Irix/OpenGL.
+      BACKTRCE -  BackTrace sample ported from Silicon Graphics Irix/OpenGL.
 
-		GENGL	 -  A Generic Windows NT OpenGL sample application.  This is
-			    a great starting point for new programmers learning OpenGL.
+      GENGL	 -  A Generic Windows NT OpenGL sample application.  This is
+               a great starting point for new programmers learning OpenGL.
 
-                PGONOFFS -  Polygon offsets for efficient translation of objects.
+                  PGONOFFS -  Polygon offsets for efficient translation of objects.
 
-		STONEHNG -  Stonehenge application ported from SGI workstation.
+      STONEHNG -  Stonehenge application ported from SGI workstation.
 
-                VASPHERE -  Using vertex arrays for improved performance.
+      VASPHERE -  Using vertex arrays for improved performance.
 
-    GLAUX       Source code for our AUXLIB implementation.
+   GLAUX       Source code for our AUXLIB implementation.
 
-    SAMPLES	OpenGL Sample code from SGI.  See SAMPLES\ABOUT.TXT for details.
+   SAMPLES	OpenGL Sample code from SGI.  See SAMPLES\ABOUT.TXT for details.
 
-    SCRSAVE	Source code for OpenGL screen savers.
+   SCRSAVE	Source code for OpenGL screen savers.
 
 
 b)  Disclaimer for Sample Applications that contain SGI copyright notice
