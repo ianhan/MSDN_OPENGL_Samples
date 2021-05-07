@@ -1,0 +1,27 @@
+NAME SSGL.SCR
+
+DESCRIPTION 'OpenGL/NT Screen Saver (c) Microsoft Corp. 1994'
+
+STUB 'WINSTUB.EXE'
+EXETYPE WINDOWS
+
+CODE MOVEABLE
+DATA MOVEABLE MULTIPLE
+
+HEAPSIZE  4096
+STACKSIZE 2048
+
+IMPORTS
+
+EXPORTS
+        ScreenSaverProc
+        ScreenSaverConfigureDialog
+
+
+
+
+
+
+
+
+
